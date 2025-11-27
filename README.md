@@ -5,7 +5,7 @@ data analysis
 In this Project I have analyze and gain insight of the kind of content available in the Netflix dataset.
 ## Roadmap
 <ul style="list-style-type:circle;">
-  <li>Data subset collected from kaggle: https://www.kaggle.com/shivamb/netflix-shows .</li>
+  <li>Data subset collected from kaggle: https://www.kaggle.com/abdulkhader/netflix-shows .</li>
   <li>Loading Libraries </li>
   <li>Data Cleaning & Finding Missing values</li>
   <li>Data Visualization</li>
@@ -37,7 +37,7 @@ The goal of this project is to practice creating and interpreting different type
 ## Kaggle link
 <ul style="list-style-type:circle;">
   <li>Dataset: https://www.kaggle.com/shivamb/netflix-shows .</li>
-  <li> My Notebook : https://www.kaggle.com/code/nidhiy07/netflix-data-analysis </li>
+  <li> My Notebook : https://www.kaggle.com/code/abdulkhader/netflix-data-analysis </li>
 </ul>
 
 # Netflix Data Analysis Using Power Bi Dashboard
@@ -47,7 +47,7 @@ The project shows the  insights of the Netflix .
 
 ## Roadmap
 <ul style="list-style-type:circle;">
-  <li>Data subset collected from kaggle: https://www.kaggle.com/shivamb/netflix-shows .</li>
+  <li>Data subset collected from kaggle: https://www.github.com/abdulkhader/netflix-shows .</li>
   <li>Loading Data in PowerBi Dekstop</li>
   <li>Data Transformation & Cleaning</li>
   <li>Building Relationship Between tables</li>
